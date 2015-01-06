@@ -1,0 +1,22 @@
+{
+    "name": "cmskit/lib-openlayers",
+    "description": "Openlayers as a production bundle without any development files like tests etc..",
+    "type": "library",
+    "version": "1.0",
+    "homepage": "http://jqueryui.com",
+    "license": "MIT",
+    
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    
+    "archive": {
+        "exclude": [
+            ".git",
+            ".gitignore"
+        ]
+    }
+}
